@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 
-.container{
+.holder{
     display: flex;
     /* if flex wrap is wrap that means allign content will shift in next row if place is not there */
         /* but if it is nowrap that means it won't change arrow try to adjust in a single row  */
